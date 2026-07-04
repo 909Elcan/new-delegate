@@ -1,0 +1,14 @@
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.deps.json
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.runtimeconfig.json
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.dll
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/bin/Debug/net10.0/ConsoleApp1.pdb
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfoInputs.cache
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.AssemblyInfo.cs
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.csproj.CoreCompileInputs.cache
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.dll
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/refint/ConsoleApp1.dll
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.pdb
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ConsoleApp1.genruntimeconfig.cache
+/Users/elcan/Desktop/ConsoleApp1/ConsoleApp1/obj/Debug/net10.0/ref/ConsoleApp1.dll
